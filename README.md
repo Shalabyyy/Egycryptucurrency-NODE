@@ -1,30 +1,11 @@
-# EgycryptocurrencyJS
-User  friendly cryptocurrency created with NodeJS
+# EgycryptocurrencyJS Node Code
+Hi Welcome to Boxcoin
 
-Requirments
+How to Join The Network as a Node
 ---------------------
-In order To run this project, you must have NodeJS insatlled. You can install NodeJS from [here](https://nodejs.org/en/download/) .
-
-Setup
----------------------
-After Installing Node, you have to install the peoject dependenies.
-```
-npm install
-cd wallet-client
-npm install
-cd ..
-cd miner-client
-npm install
-cd ..
-```
-
-Running
----------------------
-* To run the blockchain in dev mode ```npm run dapp```
-* To run the blockchain in production mode mode ```node dev/networkController.js```
-* To run the Wallet app  ```npm run wallet```
-* To run the Miner app ```npm run miner```
-
-
+* Step 1: Fork This repositry at your own github account.
+* Step 2: Make sure you have a heroku account. If you don't have a heroku account you can create one from [here](https://signup.heroku.com/)
+* Step 3: Login with you heroku account and create an app
+* Step 4: Connnect your app with you Github account and Enjoy!
 
 
